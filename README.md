@@ -28,7 +28,7 @@ pip install Python3
 
 ### Instalación 🔧
 
-Descargarse el proyecto del repositorio https://github.com/NicolasHerrera06/Data_Science_Proyecto_Final
+Descargarse el proyecto del repositorio https://github.com/NicolasHerrera06/Desafio_Winclap.git
 
 
 ## Construido con 🛠️
@@ -36,7 +36,7 @@ Descargarse el proyecto del repositorio https://github.com/NicolasHerrera06/Data
 Las herramientas que se utilizaron para crear este  proyecto fueron:
 
 * [Python](https://www.python.org/) - El lenguaje de programación usado
-* [Google Colab](https://colab.research.google.com/?utm_source=scs-index) - El entorno usado
+* [Jupiter Notebook](https://jupyter.org/) - El entorno usado
 * [Numpy](https://numpy.org/) - Librería usada
 * [Pandas](https://pandas.pydata.org/) - Librería usada
 * [Matplotib](https://matplotlib.org/) - Librería usada
